@@ -1,5 +1,5 @@
 # ISE-5984---Statistical-Learning-and-Data-Science---Homework-2
-Using the R programming language, various machine learning algorithms are implemented on a zipcode and home equity loan data sets.
+Using the R programming language, various machine learning algorithms are implemented on zipcode and home equity loan data sets.
 
 
 Questions:
